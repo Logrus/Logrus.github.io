@@ -3,8 +3,7 @@ layout: post
 title: CS231n Machine Learning Classifiers in C++ 
 ---
 
-
-In this project contains my c++ implementation of the SVM and Softmax loss functions in addition to the simple two-layer Neural Network. They were developed for vizualization and understanding while doing CS231n from Stanford University in 2016.
+This project contains my c++ implementation of the SVM and Softmax loss functions in addition to the simple two-layer Neural Network. They were developed for vizualization and understanding while doing CS231n from Stanford University in 2016.
 
 This project contains:
 
