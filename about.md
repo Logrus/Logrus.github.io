@@ -8,7 +8,7 @@ I am a master student at the University of Freiburg. I am interested in machine 
 
 ### Curriculum Vitae
 
-[Curriculum Vitae PDF](https://dl.dropboxusercontent.com/u/6003898/cv.pdf) last updated on 12.03.2017
+[Curriculum Vitae PDF](https://dl.dropboxusercontent.com/s/u44352tlnewryxf/cv.pdf) last updated on 12.03.2017
 
 ### Contact me
 
