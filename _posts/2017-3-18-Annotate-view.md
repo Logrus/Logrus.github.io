@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annotate view A simple viewer for semantic segmentation
+title: Annotate view a simple viewer for semantic segmentation
 ---
 
 A simple viewer for semantic segmentation with Qt
