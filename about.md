@@ -6,10 +6,6 @@ permalink: /about/
 
 I am a master student at the University of Freiburg. I am interested in machine learning, robotics and computer vision.
 
-### Curriculum Vitae
-
-[Curriculum Vitae PDF](https://dl.dropboxusercontent.com/s/u44352tlnewryxf/cv.pdf) last updated on 12.03.2017
-
 ### Contact me
 
 [Linkedin profile](https://www.linkedin.com/in/vdtananaev/)
