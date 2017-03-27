@@ -3,7 +3,10 @@ layout: post
 title: CS231n Machine Learning Classifiers in C++ 
 ---
 
+<img src="https://github.com/Logrus/ml_cs231n_cpp/raw/master/images/two_layer_nn_viz.png" class="teaser-img" />
 This project contains my c++ implementation of the SVM and Softmax loss functions in addition to the simple two-layer Neural Network. They were developed for vizualization and understanding while doing CS231n from Stanford University in 2016.
+
+**Source:** [Logrus/ml_cs231n_cpp](https://github.com/Logrus/ml_cs231n_cpp)
 
 This project contains:
 
@@ -20,4 +23,4 @@ This project contains:
 ## Two layer Neural Network
 ![twolayernetwork](https://github.com/Logrus/ml_cs231n_cpp/raw/master/images/two_layer_nn_viz.png)
 
-Source: [Logrus/ml_cs231n_cpp](https://github.com/Logrus/ml_cs231n_cpp)
+

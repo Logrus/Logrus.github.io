@@ -252,6 +252,10 @@ nav {
 }
 
 .post {
+  h1 {
+    font-size: 25px;
+    line-height: 1.0;
+  }
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -287,3 +291,9 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.teaser-img {
+  width:200px; 
+  float:left; 
+  padding-right:20px;
+}
